@@ -1,4 +1,4 @@
-app_name = 'articles'
+app_name = 'profiles'
 
 from django.urls import re_path
 
